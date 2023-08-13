@@ -1,1 +1,1 @@
-# pizero2w
+# https://github.com/jetbotml/pizero2w/wiki
